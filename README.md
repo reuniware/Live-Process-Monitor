@@ -17,7 +17,7 @@ https://ntic974.blogspot.com
 # RW-Access-Control (Reuniware Access Control)
 Monitor activity when someones logs into your computer, and receive result by email
 
-The code in RWAccessControl is intended for those who need to monitor activity on their computer when someone logs in.
+The code in RWAccessControl.cs is intended for those who need to monitor activity on their computer when someone logs in.
 
 You must :
 
